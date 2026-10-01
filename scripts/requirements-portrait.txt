@@ -1,0 +1,6 @@
+# Only needed locally, when you change your photo:
+pillow
+numpy
+opencv-python-headless
+# optional, for photos with a busy background (use: prep_photo.py --rembg):
+# rembg
