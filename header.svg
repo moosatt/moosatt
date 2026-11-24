@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="MOOSATT - Blue Team, SOC Analyst, Digital Forensics">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#6ee7d8"/><stop offset=".6" stop-color="#9ff5ea"/><stop offset="1" stop-color="#ffc15e"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1418"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6ee7d8" stroke-opacity=".07"/></pattern>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="r"><rect width="1000" height="260" rx="14"/></clipPath>
+<style>.t{font:700 84px 'SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace;letter-spacing:10px}.sub{font:500 22px 'SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace;fill:#c9d1d9}.tag{font:500 13px 'SFMono-Regular',Consolas,monospace;fill:#6ee7d8;letter-spacing:3px}</style>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="260" fill="url(#bg)"/><rect width="1000" height="260" fill="url(#grid)"/>
+<circle cx="880" cy="60" r="150" fill="none" stroke="#6ee7d8" stroke-opacity=".12"/><circle cx="880" cy="60" r="95" fill="none" stroke="#6ee7d8" stroke-opacity=".12"/>
+<circle cx="880" cy="60" r="40" fill="none" stroke="#6ee7d8" stroke-opacity=".2"><animate attributeName="r" values="30;150;30" dur="6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".5;0;.5" dur="6s" repeatCount="indefinite"/></circle>
+<rect y="0" width="1000" height="2" fill="#6ee7d8" opacity=".55"><animate attributeName="y" values="-4;262;-4" dur="7s" repeatCount="indefinite"/></rect>
+<text x="64" y="58" class="tag">// BLUE TEAM · DFIR · DETECTION</text>
+<circle cx="944" cy="214" r="5" fill="#6ee7d8" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="930" y="219" text-anchor="end" class="tag" style="font-size:12px">OPEN TO WORK</text>
+<text x="64" y="146" class="t" fill="url(#g)" filter="url(#glow)">MOOSATT</text>
+<rect x="64" y="160" width="0" height="3" fill="#ffc15e"><animate attributeName="width" values="0;120;120" keyTimes="0;.15;1" dur="1.4s" fill="freeze"/></rect>
+<text x="64" y="188" class="sub" opacity="0"><tspan>Blue Team · SOC Analyst</tspan><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0300;0.1600;0.2000;1" values="0;0;1;1;0;0"/></text>
+<text x="64" y="188" class="sub" opacity="0"><tspan>Threat Hunting · Detection Engineering</tspan><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2000;0.2300;0.3600;0.4000;1" values="0;0;1;1;0;0"/></text>
+<text x="64" y="188" class="sub" opacity="0"><tspan>Digital Forensics · Incident Response</tspan><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4000;0.4300;0.5600;0.6000;1" values="0;0;1;1;0;0"/></text>
+<text x="64" y="188" class="sub" opacity="0"><tspan>Red Team foundation · Pen Testing</tspan><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.6000;0.6300;0.7600;0.8000;1" values="0;0;1;1;0;0"/></text>
+<text x="64" y="188" class="sub" opacity="0"><tspan>Cyber Security &amp; Digital Forensics, First Class</tspan><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.8000;0.8300;0.9600;1.0000;1" values="0;0;1;1;0;0"/></text>
+
+<text x="64" y="188" class="sub" opacity="0"><tspan>$</tspan></text>
+<rect x="0" y="0" width="1000" height="260" fill="none" stroke="#6ee7d8" stroke-opacity=".35" stroke-width="2" rx="14"/>
+</g></svg>

@@ -16,6 +16,7 @@ LABEL_BG = "#555555"
 # file, label, value, value background, value text colour, border
 BADGES = [
     ("linkedin", "LINKEDIN", "MOOSA-THALAKKAT", "#0a66c2", "#ffffff", None),
+    ("portfolio", "PORTFOLIO", "MOOSATT.VERCEL.APP", "#0e7c86", "#ffffff", None),
     ("github", "GITHUB", "MOOSATT", "#161b22", "#ffffff", "#30363d"),
     ("certs", "CERTS", "SECURITY+ · BTJA · EJPTV2", "#8957e5", "#ffffff", None),
     ("open-to", "OPEN TO", "SOC ANALYST ROLES", "#22d3ee", "#0d1117", None),
