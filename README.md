@@ -38,3 +38,9 @@
   Nmap  Metasploit  Nikto  Gobuster  FFUF  theHarvester  WhatWeb
   Volatility  Autopsy  FTK Imager
 ```
+
+```text
+~ $ tail -1 status.log
+
+  2026-11  building hands-on blue team labs, open to SOC analyst roles
+```
