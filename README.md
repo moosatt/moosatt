@@ -1,27 +1,40 @@
-# Moosa Thalakkat
+<div align="center">
 
-**Cybersecurity analyst: blue team, digital forensics, and a red team foundation.**
+<img src="./banner.svg" width="100%" alt="Moosa Thalakkat - Blue Team, Digital Forensics, Penetration Testing" />
 
-BSc Cyber Security and Digital Forensics (First Class Honours), Middlesex University Dubai.
-Based in Saudi Arabia and the UAE. Open to SOC analyst, cybersecurity analyst, penetration testing and GRC roles.
+<br>
 
 <a href="https://moosatt.vercel.app"><img src="./badges/portfolio.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/moosa-t-b6b826325/"><img src="./badges/linkedin.svg" alt="LinkedIn" /></a>
 <img src="./badges/certs.svg" alt="Certifications" />
 
-## Focus
+</div>
 
-| Area | What I do |
-| --- | --- |
-| Blue team | Threat hunting, detection engineering, alert triage and incident response |
-| Digital forensics | Memory, disk and email forensics with documented chain of custody (ISO 27037) |
-| Red team | External black-box penetration tests with severity-rated reporting |
-| GRC | Aligning security work with ISO standards and consulting-style reporting |
+<br>
 
-## Tools
+```text
+~ $ cat about.txt
 
-`Nmap` `Metasploit` `Nikto` `Gobuster` `FFUF` `theHarvester` `WhatWeb` `Volatility` `Autopsy` `FTK Imager`
+  BSc Cyber Security & Digital Forensics, First Class Honours
+  Middlesex University Dubai
 
-## Contact
+  base    Saudi Arabia / UAE
+  status  open to SOC analyst, cybersecurity analyst,
+          penetration testing and GRC roles
+```
 
-[Portfolio](https://moosatt.vercel.app) · [LinkedIn](https://www.linkedin.com/in/moosa-t-b6b826325/)
+```text
+~ $ ls focus/
+
+  blue-team/   threat hunting, detection engineering, incident response
+  forensics/   memory, disk and email analysis, ISO 27037 chain of custody
+  red-team/    external black-box pen tests, severity-rated reporting
+  grc/         ISO standards, consulting-style reporting
+```
+
+```text
+~ $ cat tools.txt
+
+  Nmap  Metasploit  Nikto  Gobuster  FFUF  theHarvester  WhatWeb
+  Volatility  Autopsy  FTK Imager
+```
