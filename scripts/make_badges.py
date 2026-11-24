@@ -11,15 +11,15 @@ FONT = "Verdana,'DejaVu Sans',Geneva,sans-serif"
 H = 28
 CW = 7.4        # px per character at font-size 10.5 incl. letter-spacing
 PADX = 14
-LABEL_BG = "#30363d"
+LABEL_BG = "#555555"
 
 # file, label, value, value background, value text colour, border
 BADGES = [
     ("portfolio", "PORTFOLIO", "MOOSATT.VERCEL.APP", "#1f8f87", "#ffffff", None),
-    ("linkedin", "LINKEDIN", "MOOSA-THALAKKAT", "#161b22", "#ffffff", "#30363d"),
+    ("linkedin", "LINKEDIN", "MOOSA-THALAKKAT", "#0a66c2", "#ffffff", None),
     ("github", "GITHUB", "MOOSATT", "#161b22", "#ffffff", "#30363d"),
-    ("certs", "CERTS", "SECURITY+ · BTJA · EJPTV2", "#161b22", "#ffffff", "#30363d"),
-    ("open-to", "OPEN TO", "SOC ANALYST ROLES", "#161b22", "#ffffff", "#30363d"),
+    ("certs", "CERTS", "SECURITY+ · BTJA · EJPTV2", "#8957e5", "#ffffff", None),
+    ("open-to", "OPEN TO", "SOC ANALYST ROLES", "#22d3ee", "#0d1117", None),
 ]
 
 
