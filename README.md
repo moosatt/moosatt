@@ -1,46 +1,27 @@
-<div align="center">
+# Moosa Thalakkat
 
-<img src="./header.svg" width="100%" alt="MOOSATT - Blue Team, SOC Analyst, Digital Forensics" />
+**Cybersecurity analyst: blue team, digital forensics, and a red team foundation.**
 
-<br>
+BSc Cyber Security and Digital Forensics (First Class Honours), Middlesex University Dubai.
+Based in Saudi Arabia and the UAE. Open to SOC analyst, cybersecurity analyst, penetration testing and GRC roles.
 
 <a href="https://moosatt.vercel.app"><img src="./badges/portfolio.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/moosa-t-b6b826325/"><img src="./badges/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://github.com/moosatt"><img src="./badges/github.svg" alt="GitHub" /></a>
 <img src="./badges/certs.svg" alt="Certifications" />
-<br>
-<img src="./badges/open-to.svg" alt="Open to SOC analyst roles" />
 
-<br><br>
+## Focus
 
-<h3><code>moosa@github ~ $ cat focus.txt</code></h3>
-<img src="./focus.svg" width="100%" alt="Focus areas" />
+| Area | What I do |
+| --- | --- |
+| Blue team | Threat hunting, detection engineering, alert triage and incident response |
+| Digital forensics | Memory, disk and email forensics with documented chain of custody (ISO 27037) |
+| Red team | External black-box penetration tests with severity-rated reporting |
+| GRC | Aligning security work with ISO standards and consulting-style reporting |
 
-<br><br>
+## Tools
 
-<h3><code>moosa@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./moosa-ascii.svg" width="400" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./wordmark.svg" width="460" alt="3D ASCII wordmark: MOOSA" /></td>
-  </tr>
-</table>
+`Nmap` `Metasploit` `Nikto` `Gobuster` `FFUF` `theHarvester` `WhatWeb` `Volatility` `Autopsy` `FTK Imager`
 
-<br>
+## Contact
 
-<h3><code>moosa@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-
-<br><br>
-
-<h3><code>moosa@github ~ $ ./snake.sh</code></h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moosatt/moosatt/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/moosatt/moosatt/output/github-snake.svg" width="860" />
-</picture>
-
-<br><br>
-
-<sub><code>BSc Cyber Security &amp; Digital Forensics · Middlesex University Dubai · First Class Honours</code></sub>
-
-</div>
+[Portfolio](https://moosatt.vercel.app) · [LinkedIn](https://www.linkedin.com/in/moosa-t-b6b826325/)
