@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Moosa Thalakkat - Blue Team, Digital Forensics, Penetration Testing" />
+<img src="./banner.svg" width="100%" alt="Moosa Thalakkat - Blue Team, Digital Forensics, Penetration Testing, GRC" />
 
 <br>
 
