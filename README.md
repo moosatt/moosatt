@@ -10,7 +10,7 @@
 
 </div>
 
-<br>
+<img src="./chain.svg" width="100%" alt="recon, exploit, detect, respond, report" />
 
 ```text
 ~ $ cat about.txt

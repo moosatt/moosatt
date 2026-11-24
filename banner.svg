@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Moosa Thalakkat - Blue Team, Digital Forensics, Penetration Testing, GRC">
 <defs>
 <pattern id="d" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8b949e" fill-opacity=".25"/></pattern>
-<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#3fb9a8"/></linearGradient>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#3fb9a8"/><stop offset="1" stop-color="#3fb9a8"/></linearGradient>
 <style>.m{font-family:'SFMono-Regular',Consolas,'DejaVu Sans Mono',monospace}</style>
 </defs>
 <rect width="1000" height="200" rx="12" fill="#0d1117"/>
 <rect width="1000" height="200" rx="12" fill="url(#d)"/>
 <rect x=".5" y=".5" width="999" height="199" rx="12" fill="none" stroke="#30363d"/>
-<text x="56" y="62" class="m" font-size="14" fill="#8b949e" letter-spacing="2">$ whoami</text>
+<text x="56" y="62" class="m" font-size="14" fill="#8b949e" letter-spacing="2">moosa@github:~$ whoami</text>
 <text x="56" y="116" class="m" font-size="52" font-weight="700" fill="#f0f6fc" letter-spacing="1">Moosa Thalakkat</text>
 <rect x="56" y="134" width="96" height="3" rx="1.5" fill="url(#l)"/>
 <text x="56" y="168" class="m" font-size="17" fill="#8b949e">blue team  /  digital forensics  /  penetration testing  /  grc</text>
