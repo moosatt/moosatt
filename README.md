@@ -4,9 +4,9 @@
 
 <br>
 
-<a href="https://moosatt.vercel.app"><img src="./badges/portfolio.svg?v=2" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/moosa-t-b6b826325/"><img src="./badges/linkedin.svg?v=2" alt="LinkedIn" /></a>
-<img src="./badges/certs.svg?v=2" alt="Certifications" />
+<a href="https://moosatt.vercel.app"><img src="./badges/portfolio-c.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/moosa-t-b6b826325/"><img src="./badges/linkedin-c.svg" alt="LinkedIn" /></a>
+<img src="./badges/certs-c.svg" alt="Certifications" />
 
 </div>
 
